@@ -1,0 +1,9 @@
+/Temp/
+/Library/
+obj/
+*.sln
+*.csproj
+.vsconfig
+.vs/
+/Build/
+/Bundles/
